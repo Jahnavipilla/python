@@ -58,5 +58,26 @@ else:
         
         print("Country not found in either set")
 
+ if transit_country1 in set1_countries:
+        
+        print("Transit Visa Required for ", transit_country1)
+        
+    if transit_country1 in set2_countries:
+            
+         print("Transit Visa not Required for", transit_country1)
+
+    
+    if transit_country2 in set1_countries:
+        
+        print("Transit Visa Required for ", transit_country2)
+        
+    if transit_country2 in set2_countries:
+            
+         print("Transit Visa not Required for", transit_country2)
+         
+    else:
+        
+        print("Country not found in either set")
+
 
     
