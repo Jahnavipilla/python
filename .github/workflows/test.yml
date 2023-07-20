@@ -13,7 +13,7 @@ if transit_countries == 1
     
     country_name = input("Enter a Trasnit country name :")
     
-    if country_name in set1_countries:
+    if country_name in set1_countries
         
         print("Transit Visa Required")
         
