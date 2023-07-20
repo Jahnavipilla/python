@@ -54,6 +54,6 @@ else
             
          print("Transit Visa not Required for", transit_country2)
          
-    else:
+    else
         
         print("Country not found in either set")
