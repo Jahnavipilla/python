@@ -2,7 +2,7 @@ set1_countries = {'USA':450, 'Indonesia':765, 'Australia':875, 'Germany':643,'Ne
 
 set2_countries = {'Brazil', 'France', 'India', 'Japan'}
 
-transit_countries = int(input("Enter your transit countries: "))
+transit_countries = int(input("Enter your transit countries:"))
 
 if transit_countries == 1:
     
