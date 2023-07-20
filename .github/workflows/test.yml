@@ -4,7 +4,7 @@ set2_countries = {'Brazil', 'France', 'India', 'Japan'}
 
 transit_countries = int(input("Enter your transit countries "))
 
-if transit_countries == 1:
+if transit_countries == 1
     
     
     passport_name = input("Enter a country name of the passport holder ")
